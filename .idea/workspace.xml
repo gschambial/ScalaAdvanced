@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ec5fde3-513d-462e-b16f-a9ca5d05a367" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UVu0pFNfTiotG9NuQjloAWBWFu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ScalaMemberFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lessons.advanced.chapter3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TypeClassesPower">
+    <configuration name="EqualityPlayground" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.advanced.chapter4.EqualityPlayground" />
+      <module name="ScalaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.advanced.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitIntro" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.advanced.chapter4.ImplicitIntro" />
+      <module name="ScalaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.advanced.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganizingImplicits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.advanced.chapter4.OrganizingImplicits" />
+      <module name="ScalaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.advanced.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeClasses1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.advanced.chapter4.TypeClasses1" />
+      <module name="ScalaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.advanced.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeClassesPower" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.advanced.chapter4.TypeClassesPower" />
+      <module name="ScalaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.advanced.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TypeClassesPower" />
+        <item itemvalue="Application.TypeClasses1" />
+        <item itemvalue="Application.EqualityPlayground" />
+        <item itemvalue="Application.OrganizingImplicits" />
+        <item itemvalue="Application.ImplicitIntro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ScalaAdvanced" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalaadvanced [file:/Users/gsingh/ScalaAdvanced/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ScalaAdvanced-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3152183016336" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3034201197" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1134086237" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../git/supply_cache_writer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-starter" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec5fde3-513d-462e-b16f-a9ca5d05a367" name="Default Changelist" comment="" />
+      <created>1575453863362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575453863362</updated>
+      <workItem from="1575453867900" duration="847000" />
+      <workItem from="1575608086356" duration="92000" />
+      <workItem from="1575608237412" duration="648000" />
+      <workItem from="1575609562362" duration="28635000" />
+      <workItem from="1576209780443" duration="17851000" />
+      <workItem from="1576303985685" duration="61000" />
+      <workItem from="1576494303287" duration="43918000" />
+      <workItem from="1576835030704" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4058" y="257" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576751688374">
+      <screen x="3360" y="-46" width="1920" height="1080" />
+    </state>
+    <state x="2138" y="346" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576645417823" />
+    <state x="4058" y="257" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576751688374" />
+    <state x="2205" y="282" key="#com.intellij.ide.util.MemberChooser" timestamp="1576815356573">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state x="2205" y="282" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576815356573" />
+    <state x="4125" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576236778855" />
+    <state x="2018" y="261" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1575609496043">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state x="2018" y="261" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1575609496043" />
+    <state x="343" y="134" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575864881301">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="343" y="134" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1575864881301" />
+    <state x="2088" y="319" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575609531719">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state x="2088" y="319" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1575609531719" />
+    <state x="1990" y="514" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575626596034">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state x="1990" y="514" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1575626596034" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1576835003160">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576835003160" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576754346304" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1440.877/3360.-23.1920.1057/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576643614648" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center" timestamp="1576835003157">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576835003157" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576754346300" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1440.877/3360.-23.1920.1057/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576643614647" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left" timestamp="1576835003156">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576835003156" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576754346297" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1440.877/3360.-23.1920.1057/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576643614646" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right" timestamp="1576835003159">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576835003159" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576754346302" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1440.877/3360.-23.1920.1057/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576643614648" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1576835003164">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576835003164" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576578037195" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1576835003162">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576835003162" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576578037192" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1576835003161">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576835003161" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576578037191" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1576835003163">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576835003163" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576578037193" />
+    <state x="1888" y="166" key="SettingsEditor" timestamp="1576644192178">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state x="1888" y="166" key="SettingsEditor/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576643517079" />
+    <state x="336" y="103" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575864932614" />
+    <state x="1888" y="166" key="SettingsEditor/0.23.1440.877/3360.-23.1920.1057/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576644192178" />
+    <state x="376" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1576494303328">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="280" key="com.intellij.ide.util.TipDialog/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@0.0.1440.900" timestamp="1576494303328" />
+    <state x="1941" y="379" key="com.intellij.ide.util.TipDialog/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1575609562932" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877/3360.-23.1869.1057/1440.66.1920.1057@0.23.1440.877" timestamp="1575608241279" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1576655735480">
+      <screen x="1440" y="43" width="1920" height="1080" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@1440.43.1920.1080" timestamp="1576655735480" />
+    <state x="3985" y="195" width="670" height="676" key="search.everywhere.popup" timestamp="1576567509605">
+      <screen x="3360" y="-46" width="1920" height="1080" />
+    </state>
+    <state x="3985" y="195" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/3360.-46.1920.1080/1440.43.1920.1080@3360.-46.1920.1080" timestamp="1576567509605" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/lessons/advanced/chapter4/TypeClasses1.scala</url>
+          <line>67</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ScalaAdvanced$TypeClasses1.ic" NAME="TypeClasses1 Coverage Results" MODIFIED="1576753792153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lessons.advanced.chapter4.*</FILTER>
+    </SUITE>
+  </component>
+</project>
